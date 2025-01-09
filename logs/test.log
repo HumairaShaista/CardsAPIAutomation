@@ -1,0 +1,6 @@
+2025-01-05 13:20:37 [main] INFO  com.cardgame.tests.CardGameTest - Result: Player 2 wins with 20!
+2025-01-05 13:38:13 [main] INFO  com.cardgame.tests.CardGameTest - Result: Player 1 wins! Player 2 busted.
+2025-01-05 19:24:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/dz/Library/Caches/JetBrains/IdeaIE2022.1/temp-testng-customsuite.xml
+
+2025-01-05 19:24:44 [main] INFO  com.cardgame.tests.CardGameTest - Result: Player 1 wins! Player 2 busted.
